@@ -1,0 +1,49 @@
+/********************************************************** Telefon **********************************************************/
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .theme-selector-switch{
+        margin-left: 50% !important;
+        margin-top: 20px;
+        transform: translateX(-50%);
+    }
+    #navbarNav.collapse.show {
+        background: linear-gradient(180deg, #708eab, #adb5bd);
+        padding: 1rem 2rem;
+        position: absolute;          
+        top: 100%;          
+        left: 0;
+        width: 100%;
+        z-index: 1050;               
+    }
+    #welcoming-title {
+        font-size: 1.1rem;
+    }
+    #welcoming-text{
+        font-size: .8rem;
+    }
+    #searchForm {
+        width: 50%;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        position: absolute;
+    }
+    #searchIcon {
+        font-size: .8rem;
+    }
+    /******** Serie/Movie Details **********/
+    #movie-poster {
+        margin-top: 5%;
+    }
+    
+}
+
+/********************************************************** Tablet **********************************************************/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+/********************************************************** Laptop **********************************************************/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+}
+
+/********************************************************** Büyük Ekran ****************************************************/
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
