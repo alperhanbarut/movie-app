@@ -1,12 +1,68 @@
-# React + Vite
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Film ve dizi tutkunları için modern, hızlı ve kullanıcı dostu bir React uygulaması. Tüm içerikler TMDB API üzerinden alınır ve mobil uyumludur.**
 
-Currently, two official plugins are available:
+![Movie App Screenshot](https://github.com/alperhanbarut/movie-app/blob/main/screenshot.png?raw=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Başlarken
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Movie App, React ve Vite kullanılarak geliştirilmiş, modern ve responsive bir uygulamadır. Dark ve Light tema seçenekleriyle kullanıcı dostu bir deneyim sunar.
+
+---
+
+## 🧰 Teknolojiler
+
+- **React 18** – Modern frontend kütüphanesi  
+- **Vite** – Hızlı geliştirme ve build aracı  
+- **React Router v6** – Sayfa yönlendirmeleri için  
+- **Bootstrap 5** – Responsive tasarım ve mobil uyumluluk  
+- **React Context API** – Tema ve kullanıcı durumu yönetimi  
+- **TMDB API** – Film ve dizi verisi sağlamak için  
+
+---
+
+## 📸 Özellikler
+
+- 🎥 Film ve dizi arama  
+- 📄 Detaylı içerik sayfaları (film, dizi ve oyuncu bilgileri)  
+- 🔍 Arama sonuçları sayfası  
+- 👤 Oyuncu detayları  
+- 📝 Kullanıcı izleme listesi  
+- 🌙 Dark ve Light tema desteği  
+- 📱 Tam mobil uyum ve responsive tasarım  
+
+---
+
+## 🌐 Yayın
+
+Uygulama Netlify üzerinden canlı olarak yayınlanmaktadır:  
+
+👉 [https://alperhan-movie-app.netlify.app/](https://alperhan-movie-app.netlify.app/)
+
+---
+
+## 🛠️ Katkı
+
+Katkıda bulunmak isterseniz:
+
+1. Reponun kopyasını alın (`fork`)  
+2. Yeni bir branch oluşturun: `git checkout -b feature/ozellik-adi`  
+3. Değişikliklerinizi yapın ve commit edin  
+4. Değişikliklerinizi GitHub’a push edin  
+5. Pull request oluşturun
+
+---
+
+## 📄 Lisans
+
+MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/alperhanbarut/movie-app/blob/main/LICENSE) dosyasına bakabilirsiniz.
+
+---
+
+## 👤 Yazar
+
+**Alperhan Barut**  
+- GitHub: [@alperhanbarut](https://github.com/alperhanbarut)  
+- LinkedIn: [https://www.linkedin.com/in/alperhan-barut-6a0748264/](https://www.linkedin.com/in/alperhan-barut/)
