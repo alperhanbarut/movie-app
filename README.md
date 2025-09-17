@@ -54,12 +54,6 @@ Katkıda bulunmak isterseniz:
 
 ---
 
-## 📄 Lisans
-
-MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/alperhanbarut/movie-app/blob/main/LICENSE) dosyasına bakabilirsiniz.
-
----
-
 ## 👤 Yazar
 
 **Alperhan Barut**  
