@@ -2,7 +2,6 @@
 
 **Film ve dizi tutkunları için modern, hızlı ve kullanıcı dostu bir React uygulaması. Tüm içerikler TMDB API üzerinden alınır ve mobil uyumludur.**
 
-![Movie App Screenshot](https://github.com/alperhanbarut/movie-app/blob/main/screenshot.png?raw=true)
 
 ---
 
