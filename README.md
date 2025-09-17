@@ -6,7 +6,9 @@
 
 ## 🚀 Proje Hakkında
 
-Movie App, film ve dizi arama, detaylı içerik görüntüleme ve izleme listesi oluşturma gibi özellikler sunar. Kullanıcılar aradıkları film veya diziyi kolayca bulabilir, detaylı sayfalarda oyuncu bilgilerini ve ilgili içerikleri görüntüleyebilirler. 
+Movie App, film ve dizi arama, detaylı içerik görüntüleme ve izleme listesi oluşturma gibi özellikler sunar. Kullanıcılar aradıkları film veya diziyi kolayca bulabilir, detaylı sayfalarda oyuncu bilgilerini ve ilgili içerikleri görüntüleyebilirler.  
+
+**Not:** Giriş ve kayıt formları sadece simülasyon şeklindedir. Veritabanı bağlantısı bulunmamaktadır, tüm doğrulamalar ve işlemler frontend üzerinden yapılmaktadır.  
 
 Temel amaç, kullanıcıların hızlı ve rahat bir şekilde film ve dizi keşfetmesini sağlamaktır.
 
@@ -20,6 +22,7 @@ Temel amaç, kullanıcıların hızlı ve rahat bir şekilde film ve dizi keşfe
 - **Bootstrap 5** – Responsive tasarım ve mobil uyumluluk  
 - **React Context API** – Tema ve kullanıcı durum yönetimi  
 - **TMDB API** – Film ve dizi verilerini dinamik olarak çekmek için  
+- **CSS** – Stil ve responsive tasarım için
 
 ---
 
@@ -29,7 +32,8 @@ Temel amaç, kullanıcıların hızlı ve rahat bir şekilde film ve dizi keşfe
 - 📄 **Detaylı içerik sayfaları**: Film, dizi ve oyuncu bilgilerini görüntüleyin  
 - 🔍 **Arama sonuçları sayfası**: Aradığınız içerikleri listeleyin  
 - 👤 **Oyuncu detayları**: Oyuncuların biyografileri ve oynadıkları filmler  
-- 📝 **Kullanıcı izleme listesi**: Beğendiğiniz içerikleri kaydedin  
+- 📝 **Kullanıcı izleme listesi**: Beğendiğiniz içerikleri kaydedin (frontend simülasyonu)  
+- 🔐 **Giriş ve Kayıt formları**: Validasyonlar frontend üzerinden yapılır, veritabanı yoktur  
 - 🌙 **Dark ve Light tema desteği**: Göz konforunuza uygun tema seçin  
 - 📱 **Tam mobil uyum**: Tüm cihazlarda sorunsuz kullanıcı deneyimi  
 
@@ -43,17 +47,6 @@ Uygulama Netlify üzerinden yayınlanmaktadır:
 
 ---
 
-## 🛠️ Katkıda Bulunma
-
-Movie App’e katkıda bulunmak için:
-
-1. Reponun bir kopyasını alın (`fork`)  
-2. Yeni bir branch oluşturun: `git checkout -b feature/ozellik-adi`  
-3. Değişikliklerinizi yapın ve commit edin  
-4. Değişikliklerinizi GitHub’a push edin  
-5. Pull request (PR) oluşturun  
-
----
 
 ## 👤 Yazar
 
